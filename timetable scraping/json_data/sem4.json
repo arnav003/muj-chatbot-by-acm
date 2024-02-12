@@ -1,0 +1,1195 @@
+{
+    "A": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr Ayush Tripathi",
+                "7905729906",
+                "ayush.tripathi@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Satpal Singh Kushwaha",
+                "9413900119",
+                "satpal.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Dr Sunita Singhal",
+                "9352556599",
+                "sunita.singhal@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Ms Sushama",
+                "9899053688 ",
+                "sushama.tanwar@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "A1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Satpal Singh Kushwaha"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Sushama"
+                ]
+            ],
+            "A2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Satpal Singh Kushwaha"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Sushama"
+                ]
+            ]
+        },
+        "CS2231": {
+            "A1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Sunita Singhal"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Ms. Vaishali Chauhan",
+                    "8988311660 ",
+                    "vaishali.chauhan@jaipur.manipal.edu"
+                ]
+            ],
+            "A2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Sunita Singhal"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Ms. Vaishali Chauhan",
+                    "8988311660 ",
+                    "vaishali.chauhan@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Susheela Vishnoi",
+                "9214419555",
+                "susheela.vishnoi@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Dibakar Sinha",
+                "7507531275",
+                "dibakar.sinha@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Rishav Dubey",
+                "9229687177",
+                "rishav.dubey@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "B": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr Ayush Tripathi",
+                "7905729906",
+                "ayush.tripathi@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Mahesh Jangid",
+                "9799969068",
+                "mahesh.jangid@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Dr Neha Janu",
+                "9414438907",
+                "neha.janu@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Dr Uma Shankar Rawat",
+                "7023982689 ",
+                "umashankar.rawat@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "B1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Mahesh Jangid"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Satpal Singh Kushwaha"
+                ]
+            ],
+            "B2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Mahesh Jangid"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Mr Priyank Singh Hada"
+                ]
+            ]
+        },
+        "CS2231": {
+            "B1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Neha Janu"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr. Rakesh Kumar",
+                    "7903560889",
+                    "rakesh.kumar1@jaipur.manipal.edu"
+                ]
+            ],
+            "B2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Neha Janu"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr. Rakesh Kumar",
+                    "7903560889",
+                    "rakesh.kumar1@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Juhi Singh",
+                "9717105742",
+                "juhi.singh@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Mr Shishir Singh Chauhan",
+                "7905307175",
+                "shishir.chauhan@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Ankur Pandey",
+                "8319034883",
+                "ankur.pandey@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "C": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Reema Jain",
+                "9462222922, 8005848044",
+                "reema.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Ajay Kumar",
+                "9772850088",
+                "kumar.ajay@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Dr Satyabrata Roy",
+                "8890257807",
+                "satyabrata.roy@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Dr Amit Garg",
+                "9897260563 ",
+                "amit.garg@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "C1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Ajay Kumar"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Nishant Jain",
+                    "8989433433",
+                    "nishant.jain@jaipur.manipal.edu"
+                ]
+            ],
+            "C2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Ajay Kumar"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Nishant Jain",
+                    "8989433433",
+                    "nishant.jain@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2231": {
+            "C1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Satyabrata Roy"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Ms. Vaishali Chauhan",
+                    "8988311660 ",
+                    "vaishali.chauhan@jaipur.manipal.edu"
+                ]
+            ],
+            "C2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Satyabrata Roy"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Ms. Vaishali Chauhan",
+                    "8988311660 ",
+                    "vaishali.chauhan@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Ajay Kumar Kushwaha",
+                "8797666963",
+                "ajay.k@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr jayprakash Singh",
+                "9040181944",
+                "jayprakash.singh@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Dibakar Sinha",
+                "7507531275",
+                "dibakar.sinha@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "D": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Reema Jain",
+                "9462222922, 8005848044",
+                "reema.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Prakash Ramani",
+                "9887487606",
+                "prakash.ramani@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Mr Ashok Saini",
+                "9829672455",
+                "ashok.saini@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Mr Anurag Singh Tomar"
+            ]
+        ],
+        "CS2230": {
+            "D1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Sushama",
+                    "9899053688 ",
+                    "sushama.tanwar@jaipur.manipal.edu"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Deepti Sharma",
+                    "9024541469",
+                    "deepti.sharma@jaipur.manipal.edu"
+                ]
+            ],
+            "D2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Sushama",
+                    "9899053688 ",
+                    "sushama.tanwar@jaipur.manipal.edu"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Deepti Sharma",
+                    "9024541469",
+                    "deepti.sharma@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2231": {
+            "D1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Ashok Saini"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    " Mr Mahesh Kr Joshi",
+                    "8619810611",
+                    "neetu.gupta@jaipur.manipal.edu"
+                ]
+            ],
+            "D2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Ashok Saini"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr. Neetu Gupta",
+                    "8619810611",
+                    "neetu.gupta@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Mr Shishir Singh Chauhan",
+                "7905307175",
+                "shishir.chauhan@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Shikha Mundra",
+                "7073966039",
+                "shikha.kabra@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Ankur Pandey",
+                "8319034883",
+                "ankur.pandey@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "E": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Bhoopendra Pachauri",
+                "9584812663",
+                "bhoopendra.pachauri@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Ajit Noonia",
+                "9416500027",
+                "ajit.noonia@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Mr Anil Kumar",
+                "8319226027",
+                "anil.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Dr Amit Garg",
+                "9897260563 ",
+                "amit.garg@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "E1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Ajit Noonia"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr. Atul Kumar Verma",
+                    "7891437501"
+                ]
+            ],
+            "E2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Ajit Noonia"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr. Atul Kumar Verma",
+                    "7891437501"
+                ]
+            ]
+        },
+        "CS2231": {
+            "E1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Anil Kumar"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr. Rakesh Kumar",
+                    "7903560889",
+                    "rakesh.kumar1@jaipur.manipal.edu"
+                ]
+            ],
+            "E2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Anil Kumar"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr. Rakesh Kumar",
+                    "7903560889",
+                    "rakesh.kumar1@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Ajay Kumar Kushwaha",
+                "8797666963",
+                "ajay.k@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Dibakar Sinha",
+                "7507531275",
+                "dibakar.sinha@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Rishav Dubey",
+                "9229687177",
+                "rishav.dubey@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "F": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Bhoopendra Pachauri",
+                "9584812663",
+                "bhoopendra.pachauri@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Ms Anita Shrotriya",
+                "9461624479",
+                "anita.shrotriya@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Dr Neelam Chaplot",
+                "8302588886",
+                "neelam.chaplot@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Mr Shishir Singh Chauhan",
+                "7905307175",
+                "shishir.chauhan@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "F1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Anita Shrotriya"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr. Atul Kumar Verma",
+                    "7891437501"
+                ]
+            ],
+            "F2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Anita Shrotriya"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr. Atul Kumar Verma",
+                    "7891437501"
+                ]
+            ]
+        },
+        "CS2231": {
+            "F1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Neelam Chaplot"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Mayank Kumar Jain",
+                    "7987152575"
+                ]
+            ],
+            "F2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Neelam Chaplot"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Mayank Kumar Jain",
+                    "7987152575"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Dibakar Sinha",
+                "7507531275",
+                "dibakar.sinha@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Ajay Kumar Kushwaha",
+                "8797666963",
+                "ajay.k@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Jayprakash Singh",
+                "9040181944",
+                "jayprakash.singh@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "G": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Bhoopendra Pachauri",
+                "9584812663",
+                "bhoopendra.pachauri@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Amit Gupta",
+                "9414843401",
+                "amit.gupta@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Mr Mayank Kumar Jain",
+                "7987152575"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                " Ms Shweta Sharma"
+            ]
+        ],
+        "CS2230": {
+            "G1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Amit Gupta"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Deepti Sharma",
+                    "9024541469",
+                    "deepti.sharma@jaipur.manipal.edu"
+                ]
+            ],
+            "G2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Amit Gupta"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Deepti Sharma",
+                    "9024541469",
+                    "deepti.sharma@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2231": {
+            "G1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Mayank Kumar Jain"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Vivek Singh Sikarwar",
+                    "9784594777",
+                    "vivek.sikarwar@jaipur.manipal.edu"
+                ]
+            ],
+            "G2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Mayank Kumar Jain"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Vivek Singh Sikarwar",
+                    "9784594777",
+                    "vivek.sikarwar@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Shikha Mundra"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Shikha Mundra",
+                "7073966039",
+                "shikha.kabra@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                " Mr Shishir Singh Chauhan",
+                "7905307175",
+                "shishir.chauhan@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Juhi Singh",
+                "9717105742",
+                "juhi.singh@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "H": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Vijay Shankar Sharma",
+                "8269304317"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Ashish Sharma",
+                "9694945550 ",
+                "sharma.ashish@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Dr. Neetu Gupta",
+                " 8619810611neetu.gupta@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Dr. Sayar Singh Shekhawat",
+                "9460146107",
+                "sayar.shekhawat@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "H1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Ashish Sharma"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Shweta Sharma",
+                    "9826377765",
+                    "mayank.namdev@jaipur.manipal.edu"
+                ]
+            ],
+            "H2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Ashish Sharma"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Mayank Namdev",
+                    "9826377765",
+                    "mayank.namdev@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2231": {
+            "H1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr. Neetu Gupta"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Ashok Saini",
+                    "9829672455ashok.saini@jaipur.manipal.edu"
+                ]
+            ],
+            "H2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr. Neetu Gupta"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Ashok Saini",
+                    "9829672455ashok.saini@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Jayprakash Singh",
+                "9040181944",
+                "jayprakash.singh@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Dibakar Sinha",
+                "7507531275",
+                "dibakar.sinha@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Rishav Dubey",
+                "9229687177",
+                "rishav.dubey@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "I": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Vijay Shankar Sharma",
+                "8269304317"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Nishant Jain",
+                "8989433433",
+                "nishant.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Dr Ashish Kumar",
+                "8233244583"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Dr. Sayar Singh Shekhawat",
+                "9460146107",
+                "sayar.shekhawat@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "I1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Nishant Jain",
+                    "8989433433",
+                    "nishant.jain@jaipur.manipal.edu"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Mr Priyank Singh Hada",
+                    "9001921991",
+                    "priyanksingh.hada@jaipur.manipal.edu"
+                ]
+            ],
+            "I2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Nishant Jain",
+                    "8989433433",
+                    "nishant.jain@jaipur.manipal.edu"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Mr Priyank Singh Hada",
+                    "9001921991",
+                    "priyanksingh.hada@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2231": {
+            "I1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Ashish Kumar"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Anil Kumar"
+                ]
+            ],
+            "I2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Ashish Kumar"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    " Mr Mahesh Kr Joshi"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Ajay Kumar Kushwaha",
+                "8797666963",
+                "ajay.k@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Mr Akshay Jadhav"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Rishav Dubey",
+                "9229687177",
+                "rishav.dubey@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    },
+    "J": {
+        "BB0025": [
+            [
+                "VALUE, ETHICS AND GOVERNANCE"
+            ]
+        ],
+        "MA2201": [
+            [
+                "ENGINEERING MATHEMATICS IV",
+                "Dr. Vijay Shankar Sharma",
+                "8269304317"
+            ]
+        ],
+        "CS2201": [
+            [
+                "OPERATING SYSTEMS",
+                "Dr Mayank Namdev",
+                "9826377765",
+                "mayank.namdev@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2202": [
+            [
+                "RELATIONAL DATABASE MANAGEMENT SYSTEMS",
+                "Dr Rishi Gupta",
+                "8435224742 ",
+                "rishi.gupta@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2203": [
+            [
+                "COMPUTER ORGANIZATION",
+                "Mr. Girish Sharma",
+                "9785445554",
+                "girish.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "CS2230": {
+            "J1": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Mayank Namdev"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Anita Shrotriya",
+                    "9461624479",
+                    "anita.shrotriya@jaipur.manipal.edu"
+                ]
+            ],
+            "J2": [
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Dr Mayank Namdev"
+                ],
+                [
+                    "OPERATING SYSTEMS LAB  ",
+                    "Ms Anita Shrotriya",
+                    "9461624479",
+                    "anita.shrotriya@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2231": {
+            "J1": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Rishi Gupta"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Vivek Singh Sikarwar",
+                    "9784594777",
+                    "vivek.sikarwar@jaipur.manipal.edu"
+                ]
+            ],
+            "J2": [
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Dr Rishi Gupta"
+                ],
+                [
+                    "RELATIONAL DATABASE MANAGEMENT SYSTEMS LAB ",
+                    "Mr Vivek Singh Sikarwar",
+                    "9784594777",
+                    "vivek.sikarwar@jaipur.manipal.edu"
+                ]
+            ]
+        },
+        "CS2232": [
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr. Shikha Mundra",
+                "7073966039",
+                "shikha.kabra@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Ajay Kumar Kushwaha",
+                "8797666963",
+                "ajay.k@jaipur.manipal.edu"
+            ],
+            [
+                "WEB TECHNOLOGY LAB ",
+                "Dr Jayprakash Singh"
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ],
+            [
+                "WEB TECHNOLOGY LAB "
+            ]
+        ]
+    }
+}
