@@ -10,11 +10,10 @@ import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-data = json.loads(open("faculty-info.json").read())
+data = json.loads(open("./json_data/faculty-info.json").read())
 baseurl = "https://jaipur.manipal.edu"
 
 for x in data:
-    print(x, len(data[x]))
     for y in range(len(data[x])):
         try:
             url = baseurl + data[x][y]["url"]

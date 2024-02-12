@@ -6,15 +6,14 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-data = json.loads(open("faculty-info.json").read())
-baseurl = "https://jaipur.manipal.edu"
+data = json.loads(open("./json_data/faculty-info.json").read())
 for x in data:
 
     for y in range(len(data[x])):
         try:
-            url = baseurl + data[x][y]["url"]
-            page = requests.get(url)
-            soup = BeautifulSoup(page.content, 'html.parser')
+            url = "./pages/" + x + "/" + data[x][y]["url"].split("/")[-1]
+            page = open(url, "r", encoding="utf-8", errors="replace").read()
+            soup = BeautifulSoup(page, 'html.parser')
             div = soup.find("div", {"id": "research"})
             div = div.find("div")
             data[x][y]["research"] = eval(div["data-attr-research-json"])
