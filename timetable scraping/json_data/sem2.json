@@ -1,0 +1,3582 @@
+{
+    "A2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Ashima Bagaria ",
+                "7597677539",
+                "ashima.bagaria@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Reema Jain",
+                "9462222922",
+                "reema.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Dr Gaurav Sancheti",
+                "9694727780",
+                "gaurav.sancheti@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Vimal kumar Pathak",
+                "8952031051",
+                "vimalkumar.pathak@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashish Goyal",
+                "9887174284",
+                "ashish.goyal@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr Nadana Raja Vadivu",
+                "8675086352",
+                "nadana.vadivu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Manish Rawat",
+                "7389500545",
+                "manish.rawat@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Mr Varun Jurwall",
+                "6350478923",
+                "varun.jurwall@jaipur.manipal.edu"
+            ],
+            [
+                "Math Bridge for BioTech [6 weeks] (MB BIOTECH)",
+                "Dr Manisha",
+                "8094402444",
+                "manisha.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "B2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Anupam Kumar Sharma",
+                "9602754827",
+                "anupam.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ankur Kumar Jain",
+                "9981936169",
+                "ankur.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Charanjeet Singh",
+                "8001822671",
+                "charanjeet.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Vimal kumar Pathak, ",
+                "8952031051",
+                "vimalkumar.pathak@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Rahul Goyal",
+                "9460763566",
+                "rahul.goyal@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Prathap Somu",
+                "7892197581",
+                "prathap.somu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Hemant Kumar"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Prabhat Ranjan",
+                "7888379160",
+                "shamboroy.choudhury@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "C2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Sushil Kumar Jain ",
+                "9828034055",
+                "sushilkumar.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ruchika Mehta",
+                "9414643962",
+                "ruchika.mehta@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Vikram Singh Kashyap",
+                "9829221130",
+                "vikramsingh.kashyap@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Dhaneshwar Mishra",
+                "9934780757     ",
+                "dhaneshwar.mishra@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Vinod Yadav",
+                "8233343423",
+                "vinod.yadav@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Prathap Somu",
+                "7892197581",
+                "prathap.somu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Mohit Jain"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Kumar Gaurav",
+                "7389500545",
+                "manish.rawat@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "D2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Nilanjan Halder",
+                "9783784795",
+                "nilanjan.halder@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ashutosh Pandey",
+                "7311133945",
+                "ashutosh.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Dr Harshavardhana B.G.",
+                "7568621591",
+                "harshavardhana.ganesh@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Dhaneshwar Mishra, ",
+                "9934780757     ",
+                "dhaneshwar.mishra@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashok kumar Sharma",
+                "9414870686",
+                "ashokkumar.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Prathap Somu",
+                "7892197581",
+                "prathap.somu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Ashok Kumar Kumawat ",
+                "7827920040",
+                "ashokkumar.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Varun Jurwall",
+                "6350478923",
+                "varun.jurwall@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "E2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Pushpendra Kumar ",
+                "9166361797",
+                "pushpendra.kumar@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Pushpendra Kumar (EP Lab)",
+                "9166361797",
+                "pushpendra.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Garima Agarwal",
+                "9460915234",
+                "garima.agarwal@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Sagar Gupta",
+                "7837888980",
+                "sagar.gupta@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Krishnamurti Singh, ",
+                "9882516421",
+                "krishnamurti.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Somenath Gorai",
+                "9784642941",
+                "somenath.gorai@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Prathap Somu",
+                "7892197581",
+                "prathap.somu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Shahbaz Ahmed Siddiqui",
+                "9414253733",
+                "shahbazahmed.siddiqui@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Ashok Kumar Kumawat",
+                "7827920040",
+                "ashokkumar.kumawat@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "F2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Abhik Mukherjee",
+                "7439398145",
+                "abhik.mukherjee@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Alok Bhargava",
+                "9414073300",
+                "alok.bhargava@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Dr. Tej Bahadur",
+                "9414328690",
+                "tej.bahadur@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashish Kumar srivastava "
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Vijay Shankar kumawat"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Diksha Srivastava",
+                "7597130060",
+                "Diksha.Srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Manish Rawat"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Kumar Gaurav",
+                "9672789881",
+                "kumar.gaurav@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Rahul Shamota ",
+                "9467216782",
+                "rahul.shamota@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "G2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Pushpendra Kumar",
+                "9166361797",
+                "pushpendra.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ashok Kumar Pal",
+                "7870623739",
+                "ashok.pal@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Raghuvesh Tiwari",
+                "7976145286",
+                "raghuvesh.tiwary@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Dhaneshwar Mishra "
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Rakesh Kumar chaudhary"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Ms. Smriti Singh ",
+                "8979348826",
+                "smriti.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Kumar Gaurav"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Krishna Kant Pandey",
+                "9798946481",
+                "krishna.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Rahul Shamota ",
+                "9467216782",
+                "rahul.shamota@jaipur.manipal.edu"
+            ]
+        ],
+        "Time table coordinator": [
+            [
+                "Constitution of India (CoI)",
+                "B.Tech 1st Year Coordinator",
+                "Directorate of Academics"
+            ],
+            [
+                "Constitution of India (CoI)"
+            ],
+            [
+                "Constitution of India (CoI)"
+            ],
+            [
+                "Constitution of India (CoI)"
+            ],
+            [
+                "Constitution of India (CoI)"
+            ]
+        ]
+    },
+    "H2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Manoj Kumar Saini ",
+                "9953715180",
+                "manoj.saini@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ashutosh Pandey",
+                "7311133945",
+                "ashutosh.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Vikram Singh Kashyap",
+                "9829221130",
+                "vikramsingh.kashyap@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Krishnamurti Singh",
+                "9882516421",
+                "krishnamurti.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Vinod Yadav",
+                "8233343423",
+                "vinod.yadav@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Diksha Srivastava",
+                "7597130060",
+                "Diksha.Srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr ASHOK KUMAR KUMAWAT",
+                "7827920040",
+                "ashokkumar.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Mohit Jain",
+                "9414877642",
+                "mohit.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "I2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Sathi Sharma",
+                "8016678934",
+                "sathi.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ankur Kumar Jain",
+                "9981936169",
+                "ankur.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Alok Damare",
+                "8952075260",
+                "alok.damare@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashu Yadav",
+                "8764049649",
+                "ashu.yadav@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Vijay Shankar Kumawat",
+                "9001225135",
+                "vijayshankar.kumawat@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Diksha Srivastava",
+                "7597130060",
+                "Diksha.Srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr PRABHAT RANJAN",
+                "9660001868",
+                "prabhat.ranjan@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "DR Hemant Kumar ",
+                "9828565268",
+                "hemant.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Anand Pandey",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "J2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Shashi Shekher Tiwary",
+                "9621629640",
+                "shashi.tiwary@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr Garima Agarwal",
+                "9460915234",
+                "garima.agarwal@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Dr. Rudhra Haldar",
+                "7695039427",
+                "rudhra.halder@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ramanpreet Singh",
+                "9928599992",
+                "ramanpreet.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Hemant Raj Singh",
+                "9414787734",
+                "hemant.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr Nadana Raja Vadivu",
+                "8675086352",
+                "nadana.vadivu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Princy Randhawa",
+                "8716000203",
+                "princy.randhawa@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                " Dr Mrinmoy Misra",
+                "9475738447",
+                "mrinmoy.mishra@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "K2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Debanjan Bhattacharjee ",
+                "8787794713",
+                "debanjan.bhattacharjee@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ruchika Mehta",
+                "9414643962",
+                "ruchika.mehta@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Vikram Singh Kashyap",
+                "9829221130",
+                "vikramsingh.kashyap@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashu Yadav,",
+                "8764049649",
+                "ashu.yadav@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Vimal Kumar Pathak",
+                "8952031051",
+                "vimalkumar.pathak@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr Harsh Pandey",
+                "7892197581",
+                "prathap.somu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Princy Randhawa"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr NIKHIL VIVEK SHRIVAS",
+                "9579327275",
+                "nikhilvivek.shrivas@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Rahul Shamota ",
+                "9467216782",
+                "rahul.shamota@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "L2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Sathi Sharma",
+                "8016678934",
+                "sathi.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr Giriraj Methi",
+                "9414600185",
+                "giriraj.methi@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Dr Sanchit Anand",
+                "9928528858",
+                "sanchit.anand@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashok kumar Sharma, ",
+                "9414870686",
+                "ashokkumar.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Shyam Sunder Sharma",
+                "9887765320",
+                "shyamsunder.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Ms Smriti Singh",
+                "8979348826",
+                "smriti.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Mohit Jain",
+                "9414877642",
+                "mohit.jain@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                " Dr Princy Randhawa",
+                "8716000203",
+                "princy.randhawa@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Rahul Shamota ",
+                "9467216782",
+                "rahul.shamota@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "M2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Saikat Chattopadhyay ",
+                "9680460160",
+                "saikat.chattopadhyay@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Alok Bhargava",
+                "9414073300",
+                "alok.bhargava@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Alok Damare",
+                "8952075260",
+                "alok.damare@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ramanpreet Singh, ",
+                "9928599992",
+                "ramanpreet.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Mr Lav Maheshwari",
+                "9461042624",
+                "lav.maheshwari@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Ms Smriti Singh",
+                "8979348826",
+                "smriti.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Krishna Kant Pandey",
+                "9798946481",
+                "krishna.pandey@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Mohit Jain",
+                "9414877642",
+                "mohit.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "N2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Kamakhya Prakash Misra ",
+                "9452192611",
+                "kamakhyaprakash.misra@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Garima Agarwal",
+                "9460915234",
+                "garima.agarwal@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Dr. Sourav Kumar Das",
+                "8890951739",
+                "souravkumar.das@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ramanpreet Singh",
+                "9928599992",
+                "ramanpreet.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashish Kumar Srivastava",
+                "9784277269",
+                "ashishkumar.srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr Nadana Raja Vadivu",
+                "8675086352",
+                "nadana.vadivu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                " Dr Shambo Roy Chowdhury",
+                "7888379160",
+                "shamboroy.choudhury@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Mr Nikhil Vivek Shrivas ",
+                "9579327275",
+                "nikhilvivek.shrivas@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "8890736344",
+                "anand.pandey@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "O2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Anurag ",
+                "8909679379",
+                "anurag.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ruchika Mehta",
+                "9414643962",
+                "ruchika.mehta@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Dr Gaurav Sancheti",
+                "9694727780",
+                "gaurav.sancheti@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashish kumar Srivastava,",
+                "9784277269",
+                "ashishkumar.srivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Rakesh kumar Chaudhary",
+                "7073352542",
+                "kumar.rakesh@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr. Diksha Srivastava",
+                "7597130060",
+                "Diksha.Srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Prabhat Ranjan",
+                "9660001868",
+                "prabhat.ranjan@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                " Dr Hemant Kumar",
+                "9828565268",
+                "hemant.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "9829234740 ",
+                "pratistha.mathur@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "P2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Rashi Nathawat ",
+                "9833857570",
+                "rashi.nathawat@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr Ankur Kumar Jain",
+                "9981936169",
+                "ankur.jain@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Raghuvesh Tiwari",
+                "7976145286",
+                "raghuvesh.tiwary@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ashish kumar Srivastava,",
+                "9784277269",
+                "ashishkumar.srivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Mr Lav Maheshwari",
+                "9461042624",
+                "lav.maheshwari@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Ms. Smriti Singh ",
+                "8979348826",
+                "smriti.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Princy Randhawa",
+                "8716000203",
+                "princy.randhawa@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Mrinmoy Misra",
+                "9475738447",
+                "mrinmoy.mishra@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "9829234740 ",
+                "pratistha.mathur@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Dr Kartik Chamadia",
+                "7697545050",
+                "kartik.chamadia@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "Q2 ": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Ashok Kumar Mondal ",
+                "9593464887",
+                "ashok.mondal@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Alok Bhargava",
+                "9414073300",
+                "alok.bhargava@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Alok Damare",
+                "8952075260",
+                "alok.damare@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Ramanpreet Singh, ",
+                "9928599992",
+                "ramanpreet.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Hemant Raj Singh",
+                "9414787734",
+                "hemant.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Dr Nadana Raja Vadivu",
+                "8675086352",
+                "nadana.vadivu@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Mrinmoy Misra ",
+                "9475738447",
+                "mrinmoy.mishra@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Nikhil Vivek Shrivas",
+                "9579327275",
+                "nikhilvivek.shrivas@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "9829234740 ",
+                "pratistha.mathur@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Rahul Shamota ",
+                "9467216782",
+                "rahul.shamota@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "R2": {
+        "PY1001": [
+            [
+                "Engineering Physics (EP+EPLAB)",
+                "Dr. Ashish Kumar",
+                "9418361338",
+                "ashish.kumar1@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1002": [
+            [
+                "Computational Mathematics (CM)",
+                "Dr. Ashok Kumar Pal",
+                "7870623739",
+                "ashok.pal@jaipur.manipal.edu"
+            ]
+        ],
+        "CY1002": [
+            [
+                "Environmental Studies (EVS)",
+                "Dr. M. Prabhu Inbaraj",
+                "8754199342",
+                "michelprabhu.inbaraj@jaipur.manipal.edu"
+            ]
+        ],
+        "CV1001": [
+            [
+                "Engineering Materials & Mechanics (EMM)",
+                "Mr. Raghuvesh Tiwari",
+                "7976145286",
+                "raghuvesh.tiwary@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1006": [
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Rakesh kumar",
+                "7073352542",
+                "kumar.rakesh@jaipur.manipal.edu"
+            ],
+            [
+                "Matlab for Engineers (MFE)",
+                "Dr Alok kumar Ansu",
+                "9572006997",
+                "alokkumar.ansu@jaipur.manipal.edu"
+            ]
+        ],
+        "BI1001": [
+            [
+                "Biology for Engineers (BFE)",
+                "Ms. Smriti Singh ",
+                "8979348826",
+                "smriti.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "MC1030": [
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Shamboo Roy Chaudhroy ",
+                "7888379160",
+                "shamboroy.choudhury@jaipur.manipal.edu"
+            ],
+            [
+                "IoT Fab Lab 2 (IoT)",
+                "Dr Princy Randhawa",
+                "8716000203",
+                "princy.randhawa@jaipur.manipal.edu"
+            ]
+        ],
+        "DA1001": [
+            [
+                "Universal Human Values (UHV)",
+                "Prof. (Dr) Pratishtha Mathur",
+                "9829234740 ",
+                "pratistha.mathur@jaipur.manipal.edu"
+            ]
+        ],
+        "LA1010": [
+            [
+                "Constitution of India (CoI)",
+                "Rahul Shamota ",
+                "9467216782",
+                "rahul.shamota@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "A1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC Theory)",
+                "Dr. Babita Malik",
+                "8209429250",
+                "babita.malik@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Babita Malik",
+                "8209429250",
+                "babita.malik@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Himanshu Rathore",
+                "=[1]Sheet1!D17",
+                "=[1]Sheet1!E17"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Satya Narayan Agrawal",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Saurabh Devangan"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr Veena Khandelwal ",
+                "9413350811",
+                "veena.khandelwal@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Saurabh Devangan",
+                "7205597687",
+                "saurabh.dewangan@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ashish Kumar Srivastava",
+                "=[1]Sheet1!D114",
+                "=[1]Sheet1!E114"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Richa Arora",
+                "8003599913",
+                "richa.arora@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishal Das (Batch-1)",
+                "8895658126",
+                "vishal.das@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Neeraj Kanwar(Batch-1)",
+                "=[1]Sheet1!D27",
+                "=[1]Sheet1!E27"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Ankur Saharia (Batch-2)"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Vikas Kumar Bordak(Batch-2), ",
+                "=[1]Sheet1!D23",
+                "=[1]Sheet1!E23"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Veena Khandelwal ",
+                "9413350811",
+                "veena.khandelwal@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Suman Saurabh Sarkar"
+            ]
+        ]
+    },
+    "B1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Praveen Surolia",
+                "9166861737",
+                "praveenkumar.surolia@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Praveen Surolia",
+                "9166861737",
+                "praveenkumar.surolia@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Laxmi Poonia",
+                "=[1]Sheet1!D19",
+                "=[1]Sheet1!E19"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Vikas Kumar Bordak",
+                "8619866321",
+                "vikaskumar.boradak@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Dharmesh Yadav",
+                "9928893339",
+                "dharmesh.yadav@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Mr. Anurag Bhatnagar",
+                "8875027278",
+                "anurag.bhatnagar@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Hemant Raj Singh",
+                "9414787734",
+                "hemant.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ankur Srivastava",
+                "=[1]Sheet1!D48",
+                "=[1]Sheet1!E48"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Priyanka Chaudhary",
+                "9950592651",
+                "priyanka.chaudhary@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Vikas Kumar Bordak (Batch-1)",
+                "=[1]Sheet1!D23",
+                "=[1]Sheet1!E23"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Ankur Saharia (Batch-1)",
+                "9001148102",
+                "ankur.saharia@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Vikas Kumar Bordak (Batch-2)",
+                "8619866321",
+                "vikaskumar.boradak@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. C.P. Gupta (Batch-2)",
+                "=[1]Sheet1!D36",
+                "=[1]Sheet1!E36"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Mr. Anurag Bhatnagar, Ms Vineeta Soni",
+                "8875027278",
+                "anurag.bhatnagar@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "C1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Veena Dhayal",
+                "9929666807",
+                "veena.dhayal@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Veena Dhayal",
+                "9929666807",
+                "veena.dhayal@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Mohd Rizwanullah",
+                "7062189191",
+                "mohd.rizwanullah@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Vikas Kumar Bordak",
+                "=[1]Sheet1!D23",
+                "=[1]Sheet1!E23"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Mr Lav Maheshwari",
+                "=[1]Sheet1!D158",
+                "=[1]Sheet1!E158"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Mr Anurag Bhatnagar",
+                "8875027278",
+                "anurag.bhatnagar@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Mr. Lav Maheswari",
+                "9461042624",
+                "lav.maheshwari@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Mr Rahul Khatri",
+                "=[1]Sheet1!D45",
+                "=[1]Sheet1!E45"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr. Divyajot Kaur",
+                "=[1]Sheet1!D157",
+                "=[1]Sheet1!E157"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Himanshu Priyadarshi(Batch-1)",
+                "=[1]Sheet1!D24",
+                "=[1]Sheet1!E24"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishal Das(Batch-1)",
+                "8895658126",
+                "vishal.das@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr Ankur Saharia (Batch-2)",
+                "7742889057",
+                "deepika.bansal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Vikas Kumar Bordak (Batch-2)",
+                "=[1]Sheet1!D23",
+                "=[1]Sheet1!E23"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Krati Dubey, Dr Veena khandelwal",
+                "9200007177",
+                "krati.dubey@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "D1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr Komal Arora",
+                "7889265790",
+                "komal.arora@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr Komal Arora",
+                "7889265790",
+                "komal.arora@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Mohd Rizwanullah",
+                "=[1]Sheet1!D16",
+                "=[1]Sheet1!E16"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Himanshu Priyadarshi",
+                "9731744751",
+                "divyarishi.shrivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Mr Lav Maheshwari",
+                "=[1]Sheet1!D158",
+                "=[1]Sheet1!E158"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Ms Vineeta Soni",
+                "9887205674",
+                "vineeta.soni@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ramanpreet Singh",
+                "9928599992",
+                "ramanpreet.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ashish Goyal",
+                "=[1]Sheet1!D113",
+                "=[1]Sheet1!E113"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Arun Poonia",
+                "9929113568",
+                "arunkumar.poonia@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Himanshu Priyadarshi (Batch-1)",
+                "9636359204",
+                "himanshu.priyadarshi@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Deepika Bansal(Batch-1)",
+                "7742889057",
+                "deepika.bansal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Mohit Kr. Sharma (Batch-2)",
+                "9116934935",
+                "mohitkumar.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Himanshu Priyadarshi(Batch-2)",
+                "=[1]Sheet1!D24",
+                "=[1]Sheet1!E24"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "MS Vineeta Soni, Dr Krati Dubey"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)"
+            ]
+        ]
+    },
+    "E1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Susruta Samanta",
+                "9653700140",
+                "susruta.samanta@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Susruta Samanta",
+                "9653700140",
+                "susruta.samanta@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Anil Ahlawat",
+                "7404249450",
+                "anil.ahlawat@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr. Vishnu Goyal",
+                "8107177813",
+                "vishnu.goyal@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr. Saurabh Dewangan",
+                "7205597687",
+                "saurabh.dewangan@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Suman Sourabh Sarkar",
+                "9610093801"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Hemant Raj Singh",
+                "9414787734",
+                "hemant.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ankur Srivastava",
+                "9828384492",
+                "ankur.srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Yashoda Verma",
+                "9351213921",
+                "yashoda.verma@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishnu GoyalBatch-1)",
+                "8107177813",
+                "vishnu.goyal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Tejpal Batch-1)",
+                "9414784217",
+                "Tej.pal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ritesh Singh(Batch-2)",
+                "9829811709",
+                "ritesh.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Mohit Kr. Sharma (Batch-2)",
+                "9116934935",
+                "mohitkumar.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Suman Sourabh Sarkar",
+                "9610093801"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Krati Dubey"
+            ]
+        ]
+    },
+    "F1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Sriparna Ray",
+                "8890836805",
+                "sriparna.ray@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Sriparna Ray",
+                "8890836805",
+                "sriparna.ray@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Anil Ahlawat",
+                "7404249450",
+                "anil.ahlawat@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Samarendra Pratap Singh",
+                "8107177813",
+                "vishnu.goyal@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Ravi kant Gupta",
+                "9958063034",
+                "ravikumar.gupta@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr Babita Tiwari",
+                "8770177581",
+                "babita.tiwari@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Sanchita B Ghosh",
+                "8742039624",
+                "sanchitab.ghosh@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Vijay Shankar Kumawat",
+                "9001225135",
+                "vijayshankar.kumawat@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Rabindra Verma",
+                "7891410638",
+                "rabindra.verma@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ritesh Singh, Dr.(Batch-1)",
+                "9116934935",
+                "9829811709",
+                "ritesh.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "C.P. Gupta (Batch-1)",
+                "9414205424",
+                "chandraprakas.gupta@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishal Das (Batch-2)",
+                "8895658126",
+                "vishal.das@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Himanshu Priyadarshi, Dr.(Batch-2)",
+                "7597332206",
+                "suddhendu.mahapatra@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Babita Tiwari",
+                "8770177581",
+                "babita.tiwari@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms Neha"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Mr Mahesh Kr Joshi"
+            ]
+        ]
+    },
+    "G1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Rahul Shrivastava",
+                "8952816976",
+                "rahul.shrivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Rahul Shrivastava",
+                "8952816976",
+                "rahul.shrivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Mahesh Kumar Dubey",
+                "9450964616",
+                "maheshkumar.dubey@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Satya Narayan Agrawal",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Sanchita B. Ghosh",
+                "8742039624",
+                "sanchitab.ghosh@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Siddhanta Kumar Singh",
+                "9413144882",
+                "siddhanta.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Sumit Taneja",
+                "9896010356",
+                "sumit.taneja@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Dhaneshwar Mishra",
+                "9934780757     ",
+                "dhaneshwar.mishra@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Gulab Chand",
+                "8112256615",
+                "gulab.chand@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Satya Narayan AgrawalMr.(Batch-1)",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ashish Vijay (Batch-1)",
+                "8302306543",
+                "ashish.vijay@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Satya Narayan AgrawalMr.(Batch-2)",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ashish Vijay (Batch-2)",
+                "8302306543",
+                "ashish.vijay@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Siddhanta Kumar Singh",
+                "9413144882",
+                "siddhanta.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Gaurav Kumawat",
+                "9785282959",
+                "gaurav.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "MS Bhawana"
+            ]
+        ]
+    },
+    "H1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Meenakshi Pilania",
+                "7568408976",
+                "meenakshi.pilania@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Meenakshi Pilania",
+                "7568408976",
+                "meenakshi.pilania@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Indeewar Kumar",
+                "9772067163",
+                "indeewar.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Ritesh Singh",
+                "9829811709",
+                "ritesh.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Sumit Taneja",
+                "9896010356",
+                "sumit.taneja@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Jeya Krishnan.V",
+                "9994215490",
+                "jeyakrishnan.v@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Sumit Taneja",
+                "9896010356",
+                "sumit.taneja@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Rakesh kumar Chaudhary",
+                "7073352542",
+                "kumar.rakesh@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Gulab Chand",
+                "8112256615",
+                "gulab.chand@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ritesh Singh, Dr. (Batch-1)",
+                "9829811709",
+                "ritesh.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "C.P. Gupta (Batch-1)",
+                "9414205424",
+                "chandraprakas.gupta@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                " Mr. Mohit Kr. Sharma (Batch-2)",
+                "9116934935",
+                "mohitkumar.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ritesh Singh(Batch-2)",
+                "9829811709",
+                "ritesh.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Jeya Krishnan.V"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms Shweta Sharma "
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Anurag Singh Tomar"
+            ]
+        ]
+    },
+    "I1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Saurabh Srivastava",
+                "9772072583",
+                "saurabh.srivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Saurabh Srivastava",
+                "9772072583",
+                "saurabh.srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Himanshu Rathore",
+                "9828512046",
+                "himanshu.rathore@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Mr. Abhishek Kumar",
+                "9414927245",
+                "peeyush.garg@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Ankur Srivastava",
+                "9828384492",
+                "ankur.srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Ms. Bhawna Sharma",
+                "9460101333",
+                "bhawana.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ankur Srivastava",
+                "9828384492",
+                "ankur.srivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Ms Pooja Singh",
+                "7007598909",
+                "pooja.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Raj Laxmi Ghosh",
+                "9831479258",
+                "rajlaxmi.ghosh@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Satya Narayan Agrawal(Batch-1)",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ashish Vijay (Batch-1)",
+                "8302306543",
+                "ashish.vijay@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ashish Vijay (Batch-2)",
+                "8302306543",
+                "ashish.vijay@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Satya Narayan Agrawal(Batch-2)",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms. Bhawna Sharma",
+                "9460101333",
+                "bhawana.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Gaurav Kumawat",
+                "9785282959",
+                "gaurav.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr  Siddhanta Kumar Singh",
+                "9413144882",
+                "siddhanta.singh@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "J1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Suranjan De",
+                "8100903459",
+                "suranjan.de@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Suranjan De",
+                "8100903459",
+                "suranjan.de@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Sandeep Kumar",
+                "9651517060",
+                "sandeep.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr Tejpal",
+                "9414784217",
+                "Tej.pal@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Rahul Khatri",
+                "9214556535",
+                "rahul.khatri@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Jeya Krishnan.V",
+                "9994215490",
+                "jeyakrishnan.v@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Shyam Sunder Sharma",
+                "9887765320",
+                "shyamsunder.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Mr Rahul Khatri",
+                "9214556535",
+                "rahul.khatri@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Raj Laxmi Ghosh",
+                "9831479258",
+                "rajlaxmi.ghosh@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishal Das (Batch-1)",
+                "9414927245",
+                "peeyush.garg@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Satya Narayan Agrawal (Batch-1)",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishnu Goyal(Batch-2)",
+                "8107177813",
+                "vishnu.goyal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Tejpal (Batch-2)",
+                "8107177813",
+                "vishnu.goyal@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Babita tiwari",
+                "8770177581",
+                "babita.tiwari@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms Shweta Sharma",
+                "8005843988",
+                "shweta.sharma1@jaipur.manipur.edu "
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms Neha",
+                "8920357325",
+                "neha.singh1@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "K1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Amrita Biswas",
+                "8877076949",
+                "amrita.biswas@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Amrita Biswas",
+                "8877076949",
+                "amrita.biswas@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Vivek Singh",
+                "8877582215",
+                "vivek.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr. Vishal Das",
+                "8895658126",
+                "vishal.das@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Shiva Prasad HC",
+                "9686122971",
+                "shiva.prasad@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Rajat Goel ",
+                "9829553153",
+                "rajat.goel@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Krishanmurti Singh",
+                "9882516421",
+                "krishnamurti.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Somanth Gourai",
+                "9784642941",
+                "somenath.gorai@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr. Navami TS",
+                "8167525869",
+                "navami.kumari@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Satya Narayan Agrawal(Batch-1)",
+                "9461590685",
+                "satyanarayan.agarwal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishal Das (Batch-1)",
+                "8895658126",
+                "vishal.das@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Vishal Das (Batch-2)",
+                "8895658126",
+                "vishal.das@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Neeraj Kanwar (Batch-2)",
+                "8895658126",
+                "vishal.das@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Rajat Goel ",
+                "9829553153",
+                "rajat.goel@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms Neha",
+                "8920357325",
+                "neha.singh1@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms Anurag Singh Tomar"
+            ]
+        ]
+    },
+    "L1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Veena Dhayal",
+                "9929666807",
+                "veena.dhayal@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Babita Malik (Monday) & Dr Saurabh (Tuesday)",
+                "8209429250",
+                "babita.malik@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                " Dr. Indeewar Kumar",
+                "9772067163",
+                "indeewar.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr Mohit Kumar Sharma",
+                "9116934935",
+                "mohitkumar.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Sumit Taneja",
+                "9896010356",
+                "sumit.taneja@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr Sandeep Singh",
+                "9899123541",
+                "sandeep.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Vijay Shankar Kumawat",
+                "9001225135",
+                "vijayshankar.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Pooja Singh",
+                "7007598909",
+                "pooja.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Sneha Thakur",
+                "8388947716",
+                "sneha.thakur@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Himanshu Priyadarshi(Batch-1)",
+                "9660280616",
+                "abhishek.kumar@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Deepika Bansal (Batch-1)",
+                "7742889057",
+                "deepika.bansal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Mohit Kr. Sharma (Batch-2)",
+                "9116934935",
+                "mohitkumar.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Manish Kumar Thukral(Batch-2)",
+                "9818711315",
+                "samarendra.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Sandeep Singh",
+                "9899123541",
+                "sandeep.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Gaurav Kumawat",
+                "9785282959",
+                "gaurav.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Amit Kumar Sharma",
+                "9928286683",
+                "amit.sharma@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "M1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr Rahul Srivastava",
+                "8952816976",
+                "rahul.shrivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Mainak Ganguly ",
+                "8261981032",
+                "mainak.ganguly@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Sandeep Kumar",
+                "9651517060",
+                "sandeep.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr. Prashant P. Dwivedi",
+                "9455429485",
+                "prashant.dwivedi@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Dalip Singh Shekhawat",
+                "9799296567",
+                "dalip.shekhawat@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr Krati Dubay ",
+                "9200007177",
+                "krati.dubey@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Vijay Shankar Kumawat",
+                "9001225135",
+                "vijayshankar.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Hemant Raj Singh",
+                "9414787734",
+                "hemant.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Sneha Thakur",
+                "8388947716",
+                "sneha.thakur@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Manish Kumar Thukral(Batch-1)",
+                "9818711315",
+                "samarendra.singh@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Mohit Kr. Sharma (Batch-1)",
+                "9116934935",
+                "mohitkumar.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Mohit Kr. Sharma (Batch-2)",
+                "9116934935",
+                "mohitkumar.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Himanshu Priyadarshi(Batch-2)",
+                "9414241998"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Krati Dubay ",
+                "9200007177",
+                "krati.dubey@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Mr. Anurag Bhatnagar",
+                "8875027278",
+                "anurag.bhatnagar@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "N1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Suranjan De",
+                "8100903459",
+                "suranjan.de@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Suranjan De",
+                "8100903459",
+                "suranjan.de@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Laxmi Poonia",
+                "9309370206",
+                "laxmi.poonia@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr. Ankur Saharia",
+                "9001148102",
+                "ankur.saharia@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Upender Kulshestra",
+                "9461301943",
+                "upendra.kulshrestha@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr Vijay Shankar Sharma",
+                "9602834440",
+                "vijayshankar.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Rakesh kumar",
+                "7073352542",
+                "kumar.rakesh@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Pooja Singh",
+                "7007598909",
+                "pooja.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr. Abinash Mahapatra"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Deepika Bansal (Batch-1)",
+                "9001148102",
+                "ankur.saharia@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Abhishek Kumar(Batch-1)",
+                "9660280616",
+                "abhishek.kumar@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Vikas Kumar Bordak(Batch-2)",
+                "8619866321",
+                "vikaskumar.boradak@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Ankur Saharia (Batch-2)",
+                "9001148102",
+                "ankur.saharia@jaipur.manipal.edu",
+                "ankur.saharia@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Vijay Shankar Sharma",
+                "9602834440",
+                "vijayshankar.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Amit Kumar Sharma",
+                "9928286683",
+                "amit.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Gaurav Kumawat",
+                "9785282959",
+                "gaurav.kumawat@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "O1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Meenakshi Pilania",
+                "7568408976",
+                "meenakshi.pilania@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Amrita Biswas (Lab Monday)",
+                "8877076949",
+                "amrita.biswas@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Meenakshi Pilania (Wednesday (lab)",
+                "7568408976",
+                "meenakshi.pilania@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Himanshu Rathore",
+                "9828512046",
+                "himanshu.rathore@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr Deepika Bansal",
+                "7742889057",
+                "deepika.bansal@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Subrata B Ghosh",
+                "8107143756",
+                "subratab.ghosh@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr Rajat Goel",
+                "9829553153",
+                "rajat.goel@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Somanth Gaurai",
+                "9784642941",
+                "somenath.gorai@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ashish Kumar Srivastava",
+                "9784277269",
+                "ashishkumar.srivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr. Abinash Mahapatra",
+                "9831479258",
+                "rajlaxmi.ghosh@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Abhishek Kumar(Batch-1)",
+                "9660280616",
+                "abhishek.kumar@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                " Dr. Deepika Bansal (Batch-1)",
+                "9001148102",
+                "ankur.saharia@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Chusen Duari (Batch-2)",
+                "9166949738",
+                "chusen.duari@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Divya Rishi Shrivastava(Batch-2)",
+                "7597332206",
+                "suddhendu.mahapatra@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms. Babita Tiwari",
+                "8770177581",
+                "babita.tiwari@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Mr Mahesh Kumar Joshi"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Ms Shweta Sharma",
+                "8005843988",
+                "shweta.sharma1@jaipur.manipur.edu "
+            ]
+        ]
+    },
+    "P1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Mainak Ganguly",
+                "8261981032",
+                "mainak.ganguly@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Mainak Ganguly",
+                "8261981032",
+                "mainak.ganguly@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr Laxmi Poonia",
+                "9309370206",
+                "laxmi.poonia@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr. C.P. Gupta",
+                "9414205424",
+                "chandraprakas.gupta@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Santhosh Patil",
+                "9001511483",
+                "santosh.patil@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Amit Kumar Sharma",
+                "9928286683",
+                "amit.sharma@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ashish Sharma",
+                "9784641279",
+                "ashish.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Anurag Joshi",
+                "9772844555",
+                "anurag.joshi@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr. Vidisha Gupta",
+                "8899282400",
+                "vidisha.gupta@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Amit Saraswat(Batch-1)",
+                "8079076316",
+                "tej.pal@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ashish Vijay (Batch-1)",
+                "8302306543",
+                "ashish.vijay@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. C.P. Gupta (Batch-2)",
+                "9414205424",
+                "chandraprakas.gupta@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Vikas Kumar Bordak(Batch-2)",
+                "9731744751",
+                "divyarishi.shrivastava@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Amit Kumar Sharma",
+                "9928286683",
+                "amit.sharma@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Gaurav Kumawat",
+                "9785282959",
+                "gaurav.kumawat@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Bhawana Sharma",
+                "9460101333",
+                "bhawana.sharma@jaipur.manipal.edu"
+            ]
+        ]
+    },
+    "Q1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr. Susruta Samanta",
+                "9653700140",
+                "susruta.samanta@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Susruta Samanta (Monday) & Dr Saurabh (Friday)",
+                "9653700140",
+                "susruta.samanta@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Mahesh Kumar Dubey",
+                "9450964616",
+                "maheshkumar.dubey@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr Chusen Dauri",
+                "9166949738",
+                "chusen.duari@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Dharmesh Yadav",
+                "9928893339",
+                "dharmesh.yadav@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Harish Kumar Shakya",
+                "9984098866",
+                "harish.shakya@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Rakesh Kumar",
+                "7073352542",
+                "kumar.rakesh@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Alok kumar Ansu",
+                "9572006997",
+                "alokkumar.ansu@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Neerja Vyas",
+                "7737164759",
+                "neerja.vyas@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Divya Rishi Shrivastava(Batch-1)",
+                "9731744751",
+                "divyarishi.shrivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Chusen Duari (Batch-1)",
+                "9166949738",
+                "chusen.duari@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Chusen Duari (Batch-2)",
+                "9166949738",
+                "chusen.duari@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Divya Rishi Shrivastava(Batch-2)",
+                "7597332206",
+                "suddhendu.mahapatra@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Harish Kumar Shakya",
+                "9984098866",
+                "harish.shakya@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr Gautam Kumar",
+                "8262001726",
+                "gautam.kumar@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Mr Abhay Bisht"
+            ]
+        ]
+    },
+    "R1": {
+        "CY1001": [
+            [
+                "Engineering Chemistry (EC)",
+                "Dr Komal Arora",
+                "7889265790",
+                "komal.arora@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr Komal Arora (Lab Friday)",
+                "9455034378",
+                "shikha.awasthi@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Chemistry Lab (EC Lab)",
+                "Dr. Praveen Surolia (Lab Thursday)",
+                "9166861737",
+                "praveenkumar.surolia@jaipur.manipal.edu"
+            ]
+        ],
+        "MA1001": [
+            [
+                "Calculus & Matrices (CAM)",
+                "Dr. Vivek Singh",
+                "8877582215",
+                "vivek.singh@jaipur.manipal.edu"
+            ]
+        ],
+        "EE1002": [
+            [
+                "Electrical & Electronics System (EES)",
+                "Dr Ashish Vijay",
+                "8302306543",
+                "ashish.vijay@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1007": [
+            [
+                "Creativity & Innovation (CAI)",
+                "Dr Upendra Kulshrestha",
+                "9461301943",
+                "upendra.kulshrestha@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1002": [
+            [
+                "Problem Solving Using Computers (PSUC)",
+                "Dr. Gautam Kumar",
+                "8262001726",
+                "gautam.kumar@jaipur.manipal.edu"
+            ]
+        ],
+        "ME1035": [
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                "Dr Ashish Goyal",
+                "9887174284",
+                "ashish.goyal@jaipur.manipal.edu"
+            ],
+            [
+                "Engineering Graphics Lab (EG LAB)",
+                " Dr Alok kumar Ansu",
+                "9572006997",
+                "alokkumar.ansu@jaipur.manipal.edu"
+            ]
+        ],
+        "LN1001": [
+            [
+                "Technical Writing Clinic 1 (TWC) ",
+                "Dr Neerja Vyas",
+                "7737164759",
+                "neerja.vyas@jaipur.manipal.edu"
+            ]
+        ],
+        "EC1030": [
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Divya Rishi Shrivastava(Batch-1)",
+                "9731744751",
+                "divyarishi.shrivastava@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Chusen Duari (Batch-1)",
+                "9166949738",
+                "chusen.duari@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Mr. Ashish Vijay (Batch-2)",
+                "8302306543",
+                "ashish.vijay@jaipur.manipal.edu"
+            ],
+            [
+                "Electrical & Electronics Lab",
+                "Dr. Amit Saraswat(Batch-2)",
+                "8079076316",
+                "tej.pal@jaipur.manipal.edu"
+            ]
+        ],
+        "CS1031": [
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Gautam Kumar",
+                "8262001726",
+                "gautam.kumar@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Dr. Harish Kumar Shakya",
+                "9984098866",
+                "harish.shakya@jaipur.manipal.edu"
+            ],
+            [
+                "Problem Solving Using Computers Lab (PSUC Lab)",
+                "Mr. Abhay Bisht"
+            ]
+        ]
+    }
+}
